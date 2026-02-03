@@ -25,4 +25,4 @@ The project also demonstrates AI-driven automation workflows to streamline data 
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/yourusername/House_Price_Prediction.git
